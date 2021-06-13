@@ -1,5 +1,5 @@
 ## Triplet Loss Hashing
-Triplet Loss is one basic metric learning algo. Hashing is closely related to metric learning. It seems there isn't much public and solid codes for Triplet Hashing. So i've implemented a version of triplet hashing that can achieve an acceptable performance.
+Triplet Loss is one basic metric learning algo. Hashing is closely related to metric learning. It seems there isn't much public and solid codes for Triplet Hashing. So i've implemented a version of triplet hashing that can achieve acceptable performance.
 
 ## Env
 Pytorch=1.2.0 torchvision=0.4.0 cudatoolkit=10.0.130 NvidiaDriverVersion=455.45.01 CUDA=11.1
