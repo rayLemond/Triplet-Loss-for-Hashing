@@ -10,8 +10,8 @@ Pytorch=1.2.0  torchvision=0.4.0  cudatoolkit=10.0.130  NvidiaDriverVersion=455.
 3. Python TripletHashing.py to run.
 
 ## Results
-mAP on CUB-200-2011 dataset
+mAP on CUB-200-2011 dataset. Resnet50.
 
-| -| - | 64 bits |
+| -| 48 bits | 64 bits |
 | :----:| :----: | :----: |
-| - | - | 77.18 |
+| - | 76.92 | 77.18 |
